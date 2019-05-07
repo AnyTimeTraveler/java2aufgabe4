@@ -1,0 +1,6 @@
+/.idea/
+/db_junit.txt
+/out/
+*.iml
+*.ipr
+*.iws
